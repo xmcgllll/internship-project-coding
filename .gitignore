@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flask
+instance/
+.webassets-cache
+
+# Node
+node_modules/
+
+# 环境配置
+.env
